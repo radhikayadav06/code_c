@@ -1,10 +1,5 @@
 /*Write a C program to read three test scores of a student of a student and find the
  average of the best two scores.Assume a test score of MM 25 each.
- NAME:Radhika Yadav 
- ROLL NO:34
- SECTION:G1
- COURSE:B.TECH
- BRANCH:CSE
 /*
 
 #include<stdio.h>
